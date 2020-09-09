@@ -1,3 +1,5 @@
 .DS_Store
 Spigot/world*
 __pycache__/
+*.pyc
+.vscode/
