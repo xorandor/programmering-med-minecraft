@@ -3,3 +3,5 @@ Spigot/world*
 __pycache__/
 *.pyc
 .vscode/
+Spigot/logs
+hs_err*.log
