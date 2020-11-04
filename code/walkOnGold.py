@@ -8,7 +8,7 @@ mc = minecraft.Minecraft.create()
 
 running = True
 isWalkingOnGold = False
-blocks = [block.LAVA.id, block.WATER.id, block.GOLD_BLOCK, block.TNT.id]
+blocks = [block.ICE.id, block.WOOD.id, block.GOLD_BLOCK, block.TNT.id]
 
 
 def walkOnGold():
