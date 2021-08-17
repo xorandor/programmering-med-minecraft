@@ -131,4 +131,4 @@ Du kan ændre forskellige ting:
 
 Der er mange andre muligheder for at konfigurere serveren. Alle indstilliger kan findes på denne hjemmeside: https://www.spigotmc.org/wiki/spigot-configuration-server-properties/
 
-Happy hacking
+- Happy hacking
