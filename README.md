@@ -26,20 +26,22 @@ Når du har fulgt guiden, vil du have installeret:
 2. Klik på Downloads > Windows
 3. Tryk på **Latest Python 3 Release**
 4. Scroll ned til bunden af siden
-5. Vælg **Windows x86-64 executable installer**
+5. Vælg **Windows installer (64-bit)**
 6. Gem installationsfilen på din computer.
-7. Åbn installationsfilen og følg guiden (benyt standardindstillinger)
+7. Åbn installationsfilen og følg guiden (**Husk at sætte kryds i 'Add python to environment variables'**)
 
 ### 3. Installation af Minecraft 1.15.2
 
 **Hvis Minecraft ikke allerede er installeret**
 
 1. Gå ind på www.minecraft.net
-2. Vælg **Hent Minecraft**
-3. Vælg **Computer**
-4. Vælg **PC**
-5. Gem installationsfilen på din computer.
-6. Åbn installationsfilen og følg guiden (benyt standardindstillinger)
+2. Du skal være logget ind med en konto med adgang til spillet
+3. Vælg **Hent Minecraft**
+4. Vælg **Computer**
+5. Vælg **PC**
+6. Vælg **Minecraft: Java edition**
+7. Gem installationsfilen på din computer.
+8. Åbn installationsfilen og følg guiden (benyt standardindstillinger)
 
 **Når Minecraft er installeret**
 
@@ -53,7 +55,7 @@ Når du har fulgt guiden, vil du have installeret:
 
 ### 4. Installation af Visual Studio Code
 
-1. Gå ind på code.visualstudio.com
+1. Gå ind på [code.visualstudio.com](code.visualstudio.com)
 2. Vælg **Download for Windows**
 3. Gem installationsfilen på din computer.
 4. Åbn installationsfilen og følg guiden (benyt standardindstillinger)
@@ -74,7 +76,7 @@ Når du har fulgt guiden, vil du have installeret:
 3. Hvis serveren ikke dukker op, skal ud tilføje en ny server med adressen **localhost**
 4. Åbn Visual Studio Code (_vscode_)
 5. Åbn **code** mappen fra _vscode_
-6. Vælg **View** > **Terminal** i top-menuen.
+6. Vælg **Terminal** > **New terminal** i top-menuen.
 7. I terminalen skriver du `python example.py`
 8. Du kan nu i Minecraft se at der er blevet bygget en bygning, som efter kort tid eksploderer.
 
