@@ -1,2 +1,2 @@
-java -Xms512M -Xmx1G -jar spigot-1.15.2.jar -o true 
+java -Xms512M -Xmx1G -XX:+UseG1GC -jar spigot-1.17.1.jar
 pause
