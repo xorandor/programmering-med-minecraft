@@ -29,7 +29,7 @@ Når du har fulgt guiden, vil du have installeret:
 6. Gem installationsfilen på din computer.
 7. Åbn installationsfilen og følg guiden (**Husk at sætte kryds i 'Add python to environment variables'**)
 
-### 3. Installation af Minecraft 1.15.2
+### 3. Installation af Minecraft 1.17.1
 
 **Hvis Minecraft ikke allerede er installeret**
 
@@ -47,10 +47,10 @@ Når du har fulgt guiden, vil du have installeret:
 1. Åbn Minecraft
 2. Vælg fanen **Installations**
 3. Tryk på **New...**
-4. Skriv "1.15.2" som **Name**
-5. Vælg "release 1.15.2" under **Version**
+4. Skriv "1.17.1" som **Name**
+5. Vælg "release 1.17.1" under **Version**
 6. Tryk **Create**
-7. Minecraft 1.15.2 hentes nu ned og kan vælges i bunden af fanen **Play**.
+7. Minecraft 1.17.1 hentes nu ned og kan vælges i bunden af fanen **Play**.
 
 ### 4. Installation af Visual Studio Code
 
