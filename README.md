@@ -8,7 +8,7 @@ Når du har fulgt guiden, vil du have installeret:
 
 - Java (nødvendig for at kunne starte en Spigot Minecraft server)
 - Python 3 (nødvendig for at kunne skrive programmer)
-- Minecraft 1.15.2
+- Minecraft 1.17.1
 - Spigot Minecraft server
 - Visual Studio Code (benyttes til at skrive programmerne)
 
