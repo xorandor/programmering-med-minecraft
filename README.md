@@ -14,9 +14,8 @@ Når du har fulgt guiden, vil du have installeret:
 
 ### 1. Installation af Java
 
-1. Gå ind på www.java.com
-2. Klik på den røde knap med teksten **Java Download**
-3. Tryk på **Agree and Start Free Download**
+1. Gå ind på https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+2. Find den der hedder 'Windows x64 Installer' og download den
 4. Gem installationsfilen på din computer
 5. Åbn installationsfilen og følg guiden (benyt standardindstillinger)
 
