@@ -61,7 +61,7 @@ Når du har fulgt guiden, vil du have installeret:
 
 ### 5. Installation af Spigot
 
-1. Spigot ligger klar til brug i mappen **Spigot** i denne zip-fil.
+1. Spigot ligger klar til brug i mappen **Spigot** i [denne zip-fil.](https://github.com/jonasholbech/programmering-med-minecraft/archive/refs/heads/master.zip)
 2. Åbn **Spigot** mappen.
 3. Åbn **start_spigot.bat**
 4. Serveren startes nu for første gang, hvilket kan tage lidt tid, fordi der skal genereres en verden.
