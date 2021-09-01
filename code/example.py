@@ -1,7 +1,7 @@
 import mcpi.minecraft as minecraft
 import mcpi.block as block
 mc = minecraft.Minecraft.create()
-mc.postToChat("Hello World")
+mc.postToChat("Her er en lille gave til dig")
 pos = mc.player.getPos()
 print(pos.x)
 """
